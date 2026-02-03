@@ -2,7 +2,7 @@
 
 <!-- HERO SECTION -->
 <div align="center">
-  <h1 align="center">Random</h1>
+  <h1 align="center">Projects</h1>
   <p align="center">
     This repositories holds random projects, scripts, concepts, ect.
     <br />
